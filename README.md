@@ -28,9 +28,9 @@ python3 train_SPOT.py
 Attention maps can be generated from the attention layer in SPOT. This provides an interpretable visualisation to understand which time points are important in making a prediction. Below, we show how the attention maps change over epochs for window sizes 10, 20 and 30.
 
 ### Window Size: 10
-![chunk-size-10](https://github.com/anonMiccai/SPOT/edit/master/window_size_10.gif)
+![chunk-size-10](https://github.com/anonMiccai/SPOT/blob/master/window_size_10.gif)
 ### Window Size: 20
-![chunk-size-20](https://github.com/anonMiccai/SPOT/edit/master/window_size_20.gif)
+![chunk-size-20](https://github.com/anonMiccai/SPOT/blob/master/window_size_20.gif)
 ### Window Size: 30
-![chunk-size-30](https://github.com/anonMiccai/SPOT/edit/master/window_size_30.gif)
+![chunk-size-30](https://github.com/anonMiccai/SPOT/blob/master/window_size_30.gif)
 
