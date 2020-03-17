@@ -1,5 +1,5 @@
 # Decoding task states by spotting specific brain regions and states
-In this git repository we have proposed a novel architecture, Salient Patches and Overriding Timepoints, for encoding brain task states. We have added codes for two of models that we tested:
+In this git repository we have proposed a novel architecture, Salient Patterns Over Time and Space (SPOTS), for encoding brain task states. We have added codes for two of models that we tested:
 - Baseline LSTM models
 - SPOT (proposed model).  
 
